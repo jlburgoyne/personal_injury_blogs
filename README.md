@@ -43,6 +43,13 @@ This project marks my first formal exploration into data analysis, combining my 
 95% of the top Google-ranking NYC law firms maintain a blog.
 89% of the top Google-ranking NYC law firms have a case results (or similar) page.
 
+## Visuals
+
+### Blog Prevalence:
+![Donut Chart of Blog Prevalence](output/PIblogviszualization1.png "Donut Chart Showing Blog Prevalence")
+### Case Results Prevalence:
+![Donut Chart of Case Results Prevalence](output/PIblogvizualization2.png "Donut Chart Showing Case Results Prevalence")
+
 ## Decisions and Assumptions
 ### Keyword choice
 - Focused on "personal injury [city name]" rather than "personal injury lawyer [city name]" or "personal injury attorney [city name]"
