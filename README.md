@@ -72,4 +72,4 @@ This project marks my first formal exploration into data analysis, combining my 
     - A randomized study of other NYC blogs give us some answers, as well as expanding out to measure some proxy of 'big'.
         - Income per year
         - Number of lawyers
-- Is this research applicable to other types of lawyers, beyond personal injury# personal_injury_blogs
+- Is this research applicable to other types of lawyers, beyond personal injury
